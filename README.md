@@ -20,7 +20,7 @@ Each task includes a Google Colab notebook and dataset, covering preprocessing, 
 - **Goal:** Segment customers based on purchasing behavior.
 - **Skills:** K-Means Clustering, Elbow Method, PCA visualization.
 - **Notebook:**  
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zoyarattani/Elevvo-Pathways-Machine-Learning-Internship-Tasks/blob/main/Task2_CustomerSegmentation/task2_customer_segmentation.ipynb)  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jU8WeuH8RXkzme1ywD2UcunejSwFcwSs?authuser=3)
 - **Dataset:** [mall_customers.csv (raw)](https://raw.githubusercontent.com/zoyarattani/Elevvo-Pathways-Machine-Learning-Internship-Tasks/main/mall_customers.csv)
 
 ---
